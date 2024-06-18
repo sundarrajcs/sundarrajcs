@@ -1,5 +1,4 @@
-# 👋 Hi, I’m SUNDAR RAJ 😎
---
+# 👋 Hi, I’m SUNDAR RAJ 😎 ---
 - 💻 FrontEnd Developer @ National Instructional Media Institute
 - 🌱 I’m currently learning Javascript , React
 - 🧩 I’m developing to WEBSITE
