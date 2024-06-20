@@ -1,8 +1,9 @@
 <img src='https://staging3.nimiprojects.in/sundar/github.jpeg' />
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 # 👋 Hi, I’m SUNDAR RAJ 😎
 ---
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 - 💻 FrontEnd Developer @ National Instructional Media Institute
 - 🌱 I’m currently learning Javascript , React
 - 🧩 I’m developing to WEBSITE
