@@ -1,4 +1,4 @@
-<img src='https://staging3.nimiprojects.in/sundar/github.jpeg' />
+<img src='https://staging3.nimiprojects.in/sundar/github.png' />
 
 
 # 👋 Hi, I’m SUNDAR RAJ 😎
