@@ -7,8 +7,7 @@
 
 - 💻 FrontEnd Developer @ National Instructional Media Institute
 - 🌱 I’m currently learning Javascript , React
-- 🧩 I’m developing to WEBSITE
-- 📫 How to reach me ...
+- 🧩 I’m developing a WEBSITE
 - ⚡ Fun fact: # I am Learning Coding
 
 
